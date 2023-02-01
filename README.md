@@ -18,11 +18,11 @@ samples, guidance on mobile development, and a full API reference.
 
 Sayi Tahmin Uygulaması.
 
-1- Dosya Oluştur.
+1- Dosya Oluşturuldu.
 
-2- SonucEkranı sayfası oluştur.
+2- SonucEkranı sayfası oluşturuldu.
 
-3- TahminEkranı sayfası oluştur.
+3- TahminEkranı sayfası oluşturuldu.
 
 4- SonucEkranına buton eklendi.
  - Butona basıldığında TahminEkranına geçiş yapıldı.
