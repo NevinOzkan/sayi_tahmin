@@ -15,19 +15,3 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
-Sayi Tahmin Uygulaması.
-
-1- Dosya Oluşturuldu.
-
-2- SonucEkranı sayfası oluşturuldu.
-
-3- TahminEkranı sayfası oluşturuldu.
-
-4- SonucEkranına buton eklendi.
- - Butona basıldığında TahminEkranına geçiş yapıldı.
- 
-5- TahminEkranda 5 tahmin hakkı vardır. Her tahminde butona basıldı.
- - Tahmin doğru ise Kazandınız yazısı karşınıza çıktı.
- - Tahmin yalnış ise Kaybettiniz yazısı karşınıza çıktı.
-
